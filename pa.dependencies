@@ -1,19 +1,16 @@
 [
     {   "remote":       "github",
-        "account":      "AOSPA",
-        "repository":   "android_device_asus_grouper",
+        "repository":   "AOSPA/android_device_asus_grouper",
         "target_path":  "device/asus/grouper",
         "revision":     "kitkat"
     },
     {   "remote":       "github",
-        "account":      "ParanoidAndroid",
-        "repository":   "android_kernel_grouper",
+        "repository":   "ParanoidAndroid/android_kernel_grouper",
         "target_path":  "kernel/asus/grouper",
         "revision":     "jb43"
     },
     {
-        "remote":       "github",
-        "account":      "ThankYouMario",
+        "remote":       "blobs",
         "repository":   "proprietary_vendor_asus_tilapia",
         "target_path":  "vendor/asus/tilapia",
         "revision":     "kitkat"
