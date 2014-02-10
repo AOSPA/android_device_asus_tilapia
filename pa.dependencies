@@ -4,11 +4,6 @@
         "target_path":  "device/asus/grouper",
         "revision":     "kitkat"
     },
-    {   "remote":       "github",
-        "repository":   "ParanoidAndroid/android_kernel_grouper",
-        "target_path":  "kernel/asus/grouper",
-        "revision":     "jb43"
-    },
     {
         "remote":       "blobs",
         "repository":   "proprietary_vendor_asus_tilapia",
