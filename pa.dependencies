@@ -1,0 +1,13 @@
+[
+    {   "remote":       "github",
+        "repository":   "AOSPA/android_device_asus_grouper",
+        "target_path":  "device/asus/grouper",
+        "revision":     "lollipop"
+    },
+    {
+        "remote":       "blobs",
+        "repository":   "proprietary_vendor_asus_tilapia",
+        "target_path":  "vendor/asus/tilapia",
+        "revision":     "lollipop"
+    }
+]
