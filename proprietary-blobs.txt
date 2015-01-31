@@ -17,7 +17,6 @@
 /system/bin/glgps
 /system/bin/sensors-config
 /system/bin/tf_daemon
-/system/etc/apns-conf.xml
 /system/etc/firmware/bcm4330.hcd
 /system/etc/firmware/nvavp_os_00001000.bin
 /system/etc/firmware/nvavp_os_0ff00000.bin
@@ -28,9 +27,11 @@
 /system/etc/gps/gpsconfig.xml
 /system/etc/nvcamera.conf
 /system/etc/nvram.txt
+/system/lib/egl/egl.cfg
 /system/lib/egl/libEGL_tegra.so
 /system/lib/egl/libGLESv1_CM_tegra.so
 /system/lib/egl/libGLESv2_tegra.so
+/system/lib/drm/libfwdlockengine.so
 /system/lib/hw/camera.tegra3.so
 /system/lib/hw/gps.tegra3.so
 /system/lib/hw/gralloc.tegra3.so
@@ -92,3 +93,5 @@
 /system/vendor/lib/libwvdrm_L1.so
 /system/vendor/lib/libwvm.so
 /system/vendor/lib/libWVStreamControlAPI_L1.so
+/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so
+/system/vendor/lib/mediadrm/libwvdrmengine.so
