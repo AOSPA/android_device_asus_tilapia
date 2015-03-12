@@ -2,7 +2,7 @@
     {   "remote":       "github",
         "repository":   "AOSPA/android_device_asus_grouper",
         "target_path":  "device/asus/grouper",
-        "revision":     "lollipop"
+        "revision":     "lollipop-mr1"
     },
     {
         "remote":       "blobs",
