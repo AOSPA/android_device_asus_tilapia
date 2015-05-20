@@ -8,6 +8,6 @@
         "remote":       "blobs",
         "repository":   "proprietary_vendor_asus_tilapia",
         "target_path":  "vendor/asus/tilapia",
-        "revision":     "lollipop"
+        "revision":     "lollipop-mr1"
     }
 ]
